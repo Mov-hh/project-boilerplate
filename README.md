@@ -11,4 +11,4 @@
 | java/spring-boot/springmvc-spring-mybatis | Spring Boot + Spring MVC + Spring + MyBatis |
 | java/hadoop/springboot-springdatahadoop-hadoop | Spring Boot + Spring-Data-Hadoop + Hadoop |
 | java/hadoop/springboot-springdatahadoop-hbase | Spring Boot + Spring-Data-Hadoop + HBase |
-| <a href="./nodejs/express">nodejs/express-hello-world</a> | express入门 |
+| <a href="./nodejs/express">nodejs/express</a> | express入门 |
